@@ -8,5 +8,5 @@ As conclusion, considering strengthening coverage in areas with weaker signals, 
 
 # Result Picture
 ## Result is based on all platform's performance
-![image](https://github.com/farizmpr/Edinburgh-s-Telecom-Terrain-Comparative-Analysis-of-Coverage-by-Leading-Operators/assets/32903342/9c29a2a5-41ba-4d9f-ac3f-a760be3281e5)
+![image](https://github.com/farizmpr/Edinburgh-s-Telecom-Terrain-Comparative-Analysis-of-Coverage-by-Leading-Operators/assets/32903342/d7bd3788-1875-4c2d-a42c-c4ae68c59dc1)
 
